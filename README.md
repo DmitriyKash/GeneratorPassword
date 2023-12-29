@@ -32,7 +32,7 @@ cd [Назва репозиторію]
 Copy code
 ```
 ```
-python gui.py
+python generator.py
 ```
 
 ## Використання
